@@ -38,7 +38,7 @@ I am documenting my hands-on journey in cybersecurity through practical labs, Ca
 
 ## 🏆 My TryHackMe Profile
 
-[Visit TryHackMe](https://tryhackme.com/)
+[Visit My TryHackMe Profile](https://tryhackme.com/p/tryGhost)
 
 ## 📈 My Goal
 
